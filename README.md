@@ -1,2 +1,2 @@
 # CodingBat-Solutions
-Including Java &amp; Python.
+Casually some coding bat coding challenges in which includes Java &amp; Python.
