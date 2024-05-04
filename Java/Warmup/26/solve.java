@@ -1,0 +1,15 @@
+public String notString(String str) {
+  if (str.startsWith("not")){
+    return str;
+  }
+  return "not " + str;
+}
+
+
+public String notString(String str) {
+  if (str.length() >= 3 && str.substring(0, 3).equals("not")) {
+    return str;
+  }
+  
+  return "not " + str;
+}
